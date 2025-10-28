@@ -51,3 +51,13 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
+## 🤝 Contributing
+
+We welcome contributions of all kinds—bug fixes, features, docs, and ideas.
+
+**Quick start**
+- Fork this repo and clone your fork
+- Install deps: `npm install`
+- Run locally: `npm run dev` (then open http://localhost:3000)
+- Create a branch: `git checkout -b feature/your-feature-name`
+- Commit + push, then open a Pull Request
