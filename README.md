@@ -5,7 +5,8 @@
 - [ ] Finish Board page  
 - [ ] Events Tab — recap Fall '25 Events: TSMC, Engineering Day, AMZN, Y-IEEE Day  
 - [ ] Calendar Tab — link Google Calendar, show upcoming events (view on homepage?)  
-- [ ] Projects Tab — populate with projects once proposed  
+- [ ] Projects Tab — populate with projects once proposed
+- [ ] Deploy
 
 
 ## 📚 Resources
