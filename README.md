@@ -1,5 +1,16 @@
-[ ] Lucide Icons: https://lucide.dev/icons/
 
+**TODOS:**
+[] favicon
+[] socials onto Homepage: Instagram, Discord
+[] finish Board page
+[] Events Tab: recap Fall '25 Events: TSMC, Engineering Day, AMZN, Y-IEEE day
+[] Calendar Tab: link gcal, upcoming events -- view on homepage?
+[] Projects Tab: populate w projects (once they're proposed?)
+
+
+**Resources:**
+ Lucide Icons: https://lucide.dev/icons/
+---
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
